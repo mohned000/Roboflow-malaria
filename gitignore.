@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+build/
+*.apk
+*.ipa
+.dart_tool/
+.flutter-plugins
+packages
+.env
